@@ -16,7 +16,7 @@ Global Sales Data Analytics
 
 **Team member :** Nagaraj B
 
-**Team member :** Logesh B
+**Team member :** Logesh B 
 
 ---
 **Industry Mentor(s) Name :** Indra Prakash
