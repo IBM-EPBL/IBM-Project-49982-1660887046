@@ -10,7 +10,7 @@ Global Sales Data Analytics
 
 **Team Leader :** Nandhakumar K
 
-**Team member :** Mohan B
+**Team member :** Mohan B 
 
 **Team member :** Karankumar B
 
