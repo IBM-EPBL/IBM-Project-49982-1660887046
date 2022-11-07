@@ -12,7 +12,7 @@ Global Sales Data Analytics
 
 **Team member :** Mohan B 
 
-**Team member :** Karankumar B
+**Team member :** Karankumar B 
 
 **Team member :** Nagaraj B
 
