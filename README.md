@@ -14,7 +14,7 @@ Global Sales Data Analytics
 
 **Team member :** Karankumar B 
 
-**Team member :** Nagaraj B
+**Team member :** Nagaraj B 
 
 **Team member :** Logesh B 
 
