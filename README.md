@@ -8,7 +8,7 @@ Global Sales Data Analytics
 
 **Team Size :** 5
 
-**Team Leader :** Nandhakumar K
+**Team Leader :** Nandhakumar K 
 
 **Team member :** Mohan B 
 
